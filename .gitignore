@@ -1,0 +1,7 @@
+Facebook_Backup/
+albums.json
+tempCodeRunnerFile.*
+__pycache__/
+*.pyc
+.env
+.env.*
